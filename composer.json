@@ -1,0 +1,46 @@
+{
+  "name": "nox-it/yii2-nox-spreadsheet-reader",
+  "description": "Spreadsheet reader library for Excel, OpenOffice and structured text files",
+  "type": "library",
+  "keywords": [
+    "yii2",
+    "extension",
+    "spreadsheet",
+    "xls",
+    "xlsx",
+    "ods",
+    "csv",
+    "excel",
+    "openoffice"
+  ],
+  "version": "0.5.11",
+  "minimum-stability": "stable",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Martins Pilsetnieks",
+      "email": "pilsetnieks@gmail.com",
+      "homepage": "http://www.nuovo.lv/"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "2.*",
+    "nox-it/yii2-nox": "1.*",
+    "php": ">=5.4.0",
+    "ext-zip": "*"
+  },
+  "autoload": {
+    "classmap": [
+      "./"
+    ]
+  },
+  "config": {
+    "process-timeout": 1800
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/noxit-plugins/yii2-nox-spreadsheet-reader"
+    }
+  ]
+}
