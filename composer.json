@@ -13,7 +13,7 @@
     "excel",
     "openoffice"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minimum-stability": "stable",
   "license": "Apache-2.0",
   "authors": [
@@ -28,7 +28,6 @@
   "require": {
     "php": ">=5.4.0",
     "ext-zip": "*",
-    "yiisoft/yii2": "2.*",
     "nox-it/yii2-nox": "1.*"
   },
   "autoload": {
