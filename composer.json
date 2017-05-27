@@ -15,7 +15,7 @@
   ],
   "version": "1.0.2",
   "minimum-stability": "stable",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "authors": [
     {
       "name": "Martins Pilsetnieks"
@@ -41,7 +41,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://bitbucket.org/noxit-plugins/yii2-nox-spreadsheet-reader"
+      "url": "https://github.com/nox-it/yii2-nox-spreadsheet-reader"
     }
   ]
 }
