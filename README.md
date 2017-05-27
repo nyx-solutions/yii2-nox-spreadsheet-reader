@@ -1,5 +1,5 @@
-Yii PHP Framework Version 2 / NOX Flash Messages
-================================================
+Yii PHP Framework Version 2 / NOX SpreadSheet Reader
+====================================================
 
 **spreadsheet-reader** is a PHP spreadsheet reader that differs from others in that the main goal for it was efficient 
 data extraction that could handle large (as in really large) files. So far it may not definitely be CPU, time
