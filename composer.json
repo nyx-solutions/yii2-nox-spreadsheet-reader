@@ -1,5 +1,5 @@
 {
-  "name": "nox-it/yii2-nox-spreadsheet-reader",
+  "name": "nyx-solutions/yii2-nyx-spreadsheet-reader",
   "description": "Spreadsheet reader library for Excel, OpenOffice and structured text files. Based on the Martins Pilsetnieks version.",
   "type": "library",
   "keywords": [
@@ -13,7 +13,7 @@
     "excel",
     "openoffice"
   ],
-  "version": "1.0.3",
+  "version": "4.0.0",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
@@ -28,7 +28,7 @@
   "require": {
     "php": ">=5.4.0",
     "ext-zip": "*",
-    "nox-it/yii2-nox": "1.*"
+    "nyx-solutions/yii2-nyx": "1.*"
   },
   "autoload": {
     "classmap": [
@@ -41,7 +41,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/nox-it/yii2-nox-spreadsheet-reader"
+      "url": "https://github.com/nyx-solutions/yii2-nyx-spreadsheet-reader"
     }
   ]
 }

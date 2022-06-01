@@ -266,16 +266,16 @@
             "time": "2017-03-13T06:30:53+00:00"
         },
         {
-            "name": "nox-it/yii2-nox",
+            "name": "nyx-solutions/yii2-nyx",
             "version": "1.0.8",
             "source": {
                 "type": "git",
-                "url": "https://github.com/nox-it/yii2-nox.git",
+                "url": "https://github.com/nyx-solutions/yii2-nyx.git",
                 "reference": "70ed65c83e5955ad25a5c4df4917fc52b25ccd7d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nox-it/yii2-nox/zipball/70ed65c83e5955ad25a5c4df4917fc52b25ccd7d",
+                "url": "https://api.github.com/repos/nyx-solutions/yii2-nyx/zipball/70ed65c83e5955ad25a5c4df4917fc52b25ccd7d",
                 "reference": "70ed65c83e5955ad25a5c4df4917fc52b25ccd7d",
                 "shasum": ""
             },
@@ -286,7 +286,7 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "nox\\": "base"
+                    "nyx\\": "base"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",

@@ -9,13 +9,13 @@ So far XLSX, ODS and text/CSV file parsing should be memory-efficient. XLS file 
 from http://code.google.com/p/php-excel-reader/ which, sadly, has memory issues with bigger spreadsheets, as it reads the
 data all at once and keeps it all in memory.
 
-[![Latest Stable Version](https://poser.pugx.org/nox-it/yii2-nox-spreadsheet-reader/v/stable)](https://packagist.org/packages/nox-it/yii2-nox-spreadsheet-reader)
-[![Total Downloads](https://poser.pugx.org/nox-it/yii2-nox-spreadsheet-reader/downloads)](https://packagist.org/packages/nox-it/yii2-nox-spreadsheet-reader)
-[![Latest Unstable Version](https://poser.pugx.org/nox-it/yii2-nox-spreadsheet-reader/v/unstable)](https://packagist.org/packages/nox-it/yii2-nox-spreadsheet-reader)
-[![License](https://poser.pugx.org/nox-it/yii2-nox-spreadsheet-reader/license)](https://packagist.org/packages/nox-it/yii2-nox-spreadsheet-reader)
-[![Monthly Downloads](https://poser.pugx.org/nox-it/yii2-nox-spreadsheet-reader/d/monthly)](https://packagist.org/packages/nox-it/yii2-nox-spreadsheet-reader)
-[![Daily Downloads](https://poser.pugx.org/nox-it/yii2-nox-spreadsheet-reader/d/daily)](https://packagist.org/packages/nox-it/yii2-nox-spreadsheet-reader)
-[![composer.lock](https://poser.pugx.org/nox-it/yii2-nox-spreadsheet-reader/composerlock)](https://packagist.org/packages/nox-it/yii2-nox-spreadsheet-reader)
+[![Latest Stable Version](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/v/stable)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
+[![Total Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/downloads)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
+[![Latest Unstable Version](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/v/unstable)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
+[![License](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/license)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
+[![Monthly Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/d/monthly)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
+[![Daily Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/d/daily)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
+[![composer.lock](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/composerlock)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
 
 ## Requirements
 
@@ -29,13 +29,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 * Either run
 
 ```bash
-php composer.phar require --prefer-dist "nox-it/yii2-nox-spreadsheet-reader" "*"
+php composer.phar require --prefer-dist "nyx-solutions/yii2-nyx-spreadsheet-reader" "*"
 ```
 
 or add
 
 ```json
-"nox-it/yii2-nox-spreadsheet-reader": "*"
+"nyx-solutions/yii2-nyx-spreadsheet-reader": "*"
 ```
 
 to the `require` section of your application's `composer.json` file.
