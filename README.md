@@ -1,4 +1,4 @@
-Yii PHP Framework Version 2 / NOX SpreadSheet Reader
+Yii PHP Framework Version 2 / NYX SpreadSheet Reader
 ====================================================
 
 **spreadsheet-reader** is a PHP spreadsheet reader that differs from others in that the main goal for it was efficient 

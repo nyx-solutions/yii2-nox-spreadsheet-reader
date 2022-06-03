@@ -13,7 +13,7 @@
     "excel",
     "openoffice"
   ],
-  "version": "4.0.0",
+  "version": "5.0.0",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
@@ -23,10 +23,14 @@
     {
       "name": "Jonatas Sas",
       "email": "atendimento@jsas.com.br"
+    },
+    {
+      "name": "Breno Herculano",
+      "email": "brenosouherculano@gmail.com"
     }
   ],
   "require": {
-    "php": ">=5.4.0",
+    "php": ">=8.1.0 <8.2",
     "ext-zip": "*",
     "nyx-solutions/yii2-nyx": "1.*"
   },
