@@ -9,14 +9,6 @@ So far XLSX, ODS and text/CSV file parsing should be memory-efficient. XLS file 
 from http://code.google.com/p/php-excel-reader/ which, sadly, has memory issues with bigger spreadsheets, as it reads the
 data all at once and keeps it all in memory.
 
-[![Latest Stable Version](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/v/stable)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
-[![Total Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/downloads)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
-[![Latest Unstable Version](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/v/unstable)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
-[![License](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/license)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
-[![Monthly Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/d/monthly)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
-[![Daily Downloads](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/d/daily)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
-[![composer.lock](https://poser.pugx.org/nyx-solutions/yii2-nyx-spreadsheet-reader/composerlock)](https://packagist.org/packages/nyx-solutions/yii2-nyx-spreadsheet-reader)
-
 ## Requirements
 
 *  PHP 5.4.0 or newer

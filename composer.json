@@ -13,12 +13,16 @@
     "excel",
     "openoffice"
   ],
-  "version": "5.0.0",
+  "version": "1.0.4",
   "minimum-stability": "stable",
   "license": "MIT",
   "authors": [
     {
       "name": "Martins Pilsetnieks"
+    },
+    {
+      "name": "NYX Solutions",
+      "email": "nyx@jsas.com.br"
     },
     {
       "name": "Jonatas Sas",
@@ -30,7 +34,7 @@
     }
   ],
   "require": {
-    "php": ">=8.1.0 <8.2",
+    "php": ">=5.4.0",
     "ext-zip": "*",
     "nyx-solutions/yii2-nyx": "1.*"
   },
